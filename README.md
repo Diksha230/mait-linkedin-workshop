@@ -2,6 +2,15 @@
 
 A 23-chapter presentation for the Eventura × MAIT LinkedIn workshop. It looks like a landing page and is clicked through like slides. It works with no internet.
 
+## Links
+
+- **Live, public:** https://diksha230.github.io/mait-linkedin-workshop/
+- **Repo:** https://github.com/Diksha230/mait-linkedin-workshop
+
+After changing anything, run `npm run publish-site` to update the public link. It goes live in about a minute.
+
+⚠️ That link is public and can be found by search engines. It contains your income figures (₹16.4 lakh, ₹4.98 lakh, ₹4,000, ₹17.6 lakh) and your clients' messages, all as agreed on 22 Sep.
+
 ## On the day
 
 ```
